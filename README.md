@@ -1,6 +1,5 @@
 Basic Pipeline :
-
- pulling docker image 
+pulling docker image  -> docker run
 
 ```groovy
 pipeline {
