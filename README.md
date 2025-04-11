@@ -31,6 +31,7 @@ pipeline {
     }
 }
 
+```groovy
 
 Pipeline 2 :
 git clone -> docker image -> docker run 
