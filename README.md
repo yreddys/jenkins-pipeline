@@ -1,3 +1,5 @@
+Basic Pipeline : pulling docker image 
+
 pipeline {
     agent any
 
